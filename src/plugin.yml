@@ -1,0 +1,7 @@
+name: MLGRush
+version: 1.0
+main: xyz.realkonts.mlgrush.Main
+author: 'RealKonts'
+
+commands:
+  mlgrush:
